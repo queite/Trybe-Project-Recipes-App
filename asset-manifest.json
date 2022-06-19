@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/recipes-app/static/css/main.2cdc4b3a.css",
+    "main.js": "/recipes-app/static/js/main.a235d208.js",
+    "static/media/remy.png": "/recipes-app/static/media/remy.94c8c5e1fb53704d78f7.png",
+    "static/media/restaurantBG.png": "/recipes-app/static/media/restaurantBG.af9b9e7816e0ff7d0e4e.png",
+    "static/media/ratatouille logo removebg.png": "/recipes-app/static/media/ratatouille logo removebg.bc8094c9dada5859d1e2.png",
+    "static/media/login bg.png": "/recipes-app/static/media/login bg.6ca0615f80b3faae3c45.png",
+    "static/media/linguini.png": "/recipes-app/static/media/linguini.356368d28f1415eb80c5.png",
+    "static/media/ratatouille logo placa.png": "/recipes-app/static/media/ratatouille logo placa.03f222c21ee80d32252f.png",
+    "static/media/Copperplate-Gothic-Std-30-AB.ttf": "/recipes-app/static/media/Copperplate-Gothic-Std-30-AB.06455bc804deb0fa3e6b.ttf",
+    "static/media/shareIcon.svg": "/recipes-app/static/media/shareIcon.87def1bd1dff9af9263f046c3b9bd31a.svg",
+    "static/media/profileIcon.svg": "/recipes-app/static/media/profileIcon.44eb3608f431845fe2fc2d2a23d758ae.svg",
+    "static/media/whiteHeartIcon.svg": "/recipes-app/static/media/whiteHeartIcon.2b822118952dc5140129c6349fcd0472.svg",
+    "static/media/searchIcon.svg": "/recipes-app/static/media/searchIcon.7353564d025de989f86f66ecb0202a04.svg",
+    "static/media/blackHeartIcon.svg": "/recipes-app/static/media/blackHeartIcon.083cb006913d197c95857ebfa2161db7.svg",
+    "static/media/slick.svg": "/recipes-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/recipes-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/recipes-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/recipes-app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/recipes-app/index.html",
+    "main.2cdc4b3a.css.map": "/recipes-app/static/css/main.2cdc4b3a.css.map",
+    "main.a235d208.js.map": "/recipes-app/static/js/main.a235d208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cdc4b3a.css",
+    "static/js/main.a235d208.js"
+  ]
+}
